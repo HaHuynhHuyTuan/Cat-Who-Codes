@@ -9,7 +9,6 @@ Một ứng dụng đọc báo đơn giản được xây dựng bằng **Vue.js
 - Responsive (hỗ trợ mobile & desktop)
 - Giao diện hiện đại, dễ sử dụng
 
-## 🖼 Demo
 
 
 ## 🧱 Công nghệ sử dụng
